@@ -61,5 +61,3 @@ python pca_pipeline.py --components 2 --outdir outputs --balanced
 - Standardization is important before PCA so each feature contributes equally.
 - Logistic Regression gives you a quick, interpretable baseline for prediction.
 
-## How to submit
-Compress the project as a ZIP (e.g., `pca_cancer_submission.zip`) and upload it, or push the repo to GitHub and share the link.
